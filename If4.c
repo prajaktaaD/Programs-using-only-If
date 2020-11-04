@@ -14,16 +14,16 @@ int main()
   per=((m1+m2+m3)/300)*100;
   
   if(per<50)
-   printf("\nPass Class);
+   printf("\nPass Class");
   
   if((per>=50)&&(per<60))
-    printf("\nSecond Class);
+    printf("\nSecond Class");
   
   if((per>=60)&&(per<75))
-    printf("\nFirst Class);
+    printf("\nFirst Class");
   
   if(per>75)
-   printf("\nDistinction);
+   printf("\nDistinction");
    
    return 0;
    
