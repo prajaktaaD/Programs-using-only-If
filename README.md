@@ -10,7 +10,6 @@ Less than 50%= pass class<br>
 50 to 60% = second class<br>
 60 to 74% = first class<br>
 75 % & Above = distinction<br>
-5. Take two integers & one character from user, character will specify the operation (+,-,/,*)<br>
-6. Find greatest of 3 numbers using only if<br>
+5. Find greatest of 3 numbers using only if<br>
 
 
